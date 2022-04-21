@@ -87,6 +87,10 @@ body {
   html {
     font-size: 7px;
   }
+
+  .form select {
+    width: 12%;
+  }
 }
 @media (max-width: 768px) {
   #root {
@@ -102,6 +106,10 @@ body {
 
   html {
     font-size: 6px;
+  }
+
+  .form select {
+    width: 17%;
   }
 }
 @media (max-width: 425px) {
